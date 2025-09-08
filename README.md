@@ -1,8 +1,11 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Urvesh Mistry</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murvesh-99&label=Profile%20views&color=0e75b6&style=flat" alt="murvesh-99" /> </p>
+
+📄 Know about my experiences 
+
+Experienced Data Analyst with nearly 3 years of experience in retail, marketing analytics, industrial supply and finance. Proven expertise in developing business intelligence dashboards (BI), KPI framework, SLA reporting, managed Jira workflows, and data- driven solutions.
 
 - 🌱 I’m currently learning **Frameworks, Courses**
 
@@ -12,7 +15,15 @@
 
 - 📫 How to reach me **urveshmistry27@gmail.com**
 
-- 📄 Know about my experiences [Experienced Data Analystwith nearly 3 years of experience in retail, marketing analytics, industrial supply and finance. Proven expertise in developing business intelligence dashboards (BI), KPI framework, SLA reporting, managed Jira workflows, and data- driven solutions.](Experienced Data Analystwith nearly 3 years of experience in retail, marketing analytics, industrial supply and finance. Proven expertise in developing business intelligence dashboards (BI), KPI framework, SLA reporting, managed Jira workflows, and data- driven solutions.)
+
+
+🎯 What I’m aiming for
+
+**🚀 Mastering BI tools & SQL to become a top-notch BI Developer**
+
+**📊 Building data-driven solutions for real-world problems**
+
+**⚡ Expanding my knowledge in cloud-based analytics & automation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
