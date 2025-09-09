@@ -5,7 +5,7 @@
 
 📄 About my experiences 
 
-Experienced Data Analyst with nearly 3 years of experience in retail, marketing analytics, industrial supply and finance. Proven expertise in developing business intelligence dashboards (BI), KPI framework, SLA reporting, managed Jira workflows, and data- driven solutions.
+Experienced Data Analyst with nearly 3 years of experience in retail, marketing analytics, industrial supply and finance. Proven expertise in developing business intelligence dashboards (BI), KPI framework, SLA reporting, managing Jira workflows, and data- driven solutions.
 
 - 🌱 I’m currently learning **Frameworks, Courses**
 
