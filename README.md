@@ -3,44 +3,31 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murvesh-99&label=Profile%20views&color=0e75b6&style=flat" alt="murvesh-99" /> </p>
 
-📄 About my experiences 
+📄 About me
 
 Experienced Data Analyst with nearly 3 years of experience in retail, marketing analytics, industrial supply and finance. Proven expertise in developing business intelligence dashboards (BI), KPI framework, SLA reporting, managing Jira workflows, and data- driven solutions.
 
-- 🌱 I’m currently learning **Frameworks, Courses**
+- 🌱 Currently focusing and looking to collaborate on **Python**, **Data Science** and **Machine Learning**
+- 📫 Reach out to me at - **urveshmistry27@gmail.com**  
 
-- 👯 I’m looking to collaborate on **Machine learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/MUrvesh-99](https://github.com/MUrvesh-99)
-
-- 📫 How to reach me **urveshmistry27@gmail.com**
-
-
-
-🎯 What I’m aiming for
-
-**🚀 Mastering BI tools & SQL to become a top-notch BI Developer**
-
-**📊 Turning raw data into actionable insights for the business**
-
-**🧪 Conducting quantitative & qualitative analysis**
-
-**⚡ Expanding my knowledge in cloud-based analytics & automation**
-
-**🤖 Learning AI & ML and applying them to real-world problems**
+  
+**🎯 What I’m aiming for**
+- 🚀 Mastering BI tools & SQL to become a top-notch BI Developer
+- 📊 Turning raw data into actionable insights for the business
+- 🧪 Conducting quantitative & qualitative analysis
+- ⚡ Expanding my knowledge in cloud-based analytics & automation
+- 🤖 Learning AI-ML and applying them to real-world problems
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/urvesh-mistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/urvesh-mistry" height="30" width="40" 
+<a href="https://linkedin.com/in/urvesh-mistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/urvesh-mistry" height="30" width="40" 
                                                                     
   <!-- Gmail -->
   <a href="mailto:urveshmistry27@gmail.com" target="_blank">
     <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" width="40" />
   </a>
 </p>
-
-
 
 <h3 align="left">Skills:</h3>
 
